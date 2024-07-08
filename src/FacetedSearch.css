@@ -1,0 +1,61 @@
+/* src/FacetedSearch.css */
+.faceted-search {
+    width: 250px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .faceted-search h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .facet-section {
+    margin-bottom: 20px;
+  }
+  
+  .facet-section h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .facet-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .facet-button:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .facet-button.selected {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+  }
+  
+  .search-button {
+    width: 100%;
+    padding: 10px;
+    font-size: 1.2em;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .search-button:hover {
+    background-color: #333;
+  }
+  

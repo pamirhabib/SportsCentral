@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96feccd3.css",
+    "main.js": "/static/js/main.9251d002.js",
+    "static/media/newsletter_image.png": "/static/media/newsletter_image.3a295274d2f90d174c17.png",
+    "static/media/hockeyImg.png": "/static/media/hockeyImg.f9137ae45e1d3ea8c3b8.png",
+    "static/media/badmintonImg.png": "/static/media/badmintonImg.cdc5e73aab8000d6d64e.png",
+    "static/media/motorsportImg.png": "/static/media/motorsportImg.b904a4e802e2104ec721.png",
+    "static/media/basketballImg.png": "/static/media/basketballImg.f2b92eb60ede7e143655.png",
+    "static/media/footballImg.png": "/static/media/footballImg.0e02c0c8500ce90e748b.png",
+    "static/media/horseRacingImg.png": "/static/media/horseRacingImg.f1a4bd4706c9f9cad1a7.png",
+    "static/media/cyclingImg.png": "/static/media/cyclingImg.455cfbed644fb59f25bc.png",
+    "static/media/boxingImg.png": "/static/media/boxingImg.701b38525a568d5428bb.png",
+    "static/media/volleyballImg.png": "/static/media/volleyballImg.7b40d92cc7e0b65c507b.png",
+    "static/media/poll.png": "/static/media/poll.a542b9203dc9aa265111.png",
+    "static/media/hero.png": "/static/media/hero.13ef78c3fd803c72b05d.png",
+    "index.html": "/index.html",
+    "main.96feccd3.css.map": "/static/css/main.96feccd3.css.map",
+    "main.9251d002.js.map": "/static/js/main.9251d002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96feccd3.css",
+    "static/js/main.9251d002.js"
+  ]
+}

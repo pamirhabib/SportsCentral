@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sportscentral/static/css/main.0bcbf532.css",
-    "main.js": "/sportscentral/static/js/main.524b6f42.js",
-    "static/media/newsletter_image.png": "/sportscentral/static/media/newsletter_image.3a295274d2f90d174c17.png",
-    "static/media/hockeyImg.png": "/sportscentral/static/media/hockeyImg.f9137ae45e1d3ea8c3b8.png",
-    "static/media/badmintonImg.png": "/sportscentral/static/media/badmintonImg.cdc5e73aab8000d6d64e.png",
-    "static/media/motorsportImg.png": "/sportscentral/static/media/motorsportImg.b904a4e802e2104ec721.png",
-    "static/media/basketballImg.png": "/sportscentral/static/media/basketballImg.f2b92eb60ede7e143655.png",
-    "static/media/footballImg.png": "/sportscentral/static/media/footballImg.0e02c0c8500ce90e748b.png",
-    "static/media/horseRacingImg.png": "/sportscentral/static/media/horseRacingImg.f1a4bd4706c9f9cad1a7.png",
-    "static/media/cyclingImg.png": "/sportscentral/static/media/cyclingImg.455cfbed644fb59f25bc.png",
-    "static/media/boxingImg.png": "/sportscentral/static/media/boxingImg.701b38525a568d5428bb.png",
-    "static/media/volleyballImg.png": "/sportscentral/static/media/volleyballImg.7b40d92cc7e0b65c507b.png",
-    "static/media/poll.png": "/sportscentral/static/media/poll.a542b9203dc9aa265111.png",
-    "static/media/hero.png": "/sportscentral/static/media/hero.13ef78c3fd803c72b05d.png",
-    "index.html": "/sportscentral/index.html",
-    "main.0bcbf532.css.map": "/sportscentral/static/css/main.0bcbf532.css.map",
-    "main.524b6f42.js.map": "/sportscentral/static/js/main.524b6f42.js.map"
+    "main.css": "/SportsCentral/static/css/main.48d310d2.css",
+    "main.js": "/SportsCentral/static/js/main.7e32108f.js",
+    "static/media/newsletter_image.png": "/SportsCentral/static/media/newsletter_image.3a295274d2f90d174c17.png",
+    "static/media/hockeyImg.png": "/SportsCentral/static/media/hockeyImg.f9137ae45e1d3ea8c3b8.png",
+    "static/media/badmintonImg.png": "/SportsCentral/static/media/badmintonImg.cdc5e73aab8000d6d64e.png",
+    "static/media/motorsportImg.png": "/SportsCentral/static/media/motorsportImg.b904a4e802e2104ec721.png",
+    "static/media/basketballImg.png": "/SportsCentral/static/media/basketballImg.f2b92eb60ede7e143655.png",
+    "static/media/footballImg.png": "/SportsCentral/static/media/footballImg.0e02c0c8500ce90e748b.png",
+    "static/media/horseRacingImg.png": "/SportsCentral/static/media/horseRacingImg.f1a4bd4706c9f9cad1a7.png",
+    "static/media/cyclingImg.png": "/SportsCentral/static/media/cyclingImg.455cfbed644fb59f25bc.png",
+    "static/media/boxingImg.png": "/SportsCentral/static/media/boxingImg.701b38525a568d5428bb.png",
+    "static/media/volleyballImg.png": "/SportsCentral/static/media/volleyballImg.7b40d92cc7e0b65c507b.png",
+    "static/media/poll.png": "/SportsCentral/static/media/poll.a542b9203dc9aa265111.png",
+    "static/media/hero.png": "/SportsCentral/static/media/hero.13ef78c3fd803c72b05d.png",
+    "index.html": "/SportsCentral/index.html",
+    "main.48d310d2.css.map": "/SportsCentral/static/css/main.48d310d2.css.map",
+    "main.7e32108f.js.map": "/SportsCentral/static/js/main.7e32108f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bcbf532.css",
-    "static/js/main.524b6f42.js"
+    "static/css/main.48d310d2.css",
+    "static/js/main.7e32108f.js"
   ]
 }
